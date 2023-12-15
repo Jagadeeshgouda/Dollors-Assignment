@@ -95,17 +95,17 @@ const Header = () => {
       )}
     >
       <img
-        src="https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2560&q=80"
+        src="https://rukminim1.flixcart.com/fk-p-flap/1000/170/image/7e6f7f22ab2b746f.jpg?q=20"
         alt="image 1"
         className="h-full w-full object-cover"
       />
       <img
-        src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
+        src="https://rukminim1.flixcart.com/fk-p-flap/1000/170/image/039ec2390c9d9c67.jpeg?q=20"
         alt="image 2"
         className="h-full w-full object-cover"
       />
       <img
-        src="https://images.unsplash.com/photo-1518623489648-a173ef7824f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2762&q=80"
+        src="https://rukminim1.flixcart.com/fk-p-flap/1000/170/image/5f515750b4e4ec8e.jpeg?q=20"
         alt="image 3"
         className="h-full w-full object-cover"
       />
