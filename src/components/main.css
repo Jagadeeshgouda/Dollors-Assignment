@@ -1,0 +1,105 @@
+.rounded-xl {
+    display: flex;
+    justify-content: space-between;
+    margin-top:20px;
+  }
+ 
+  .part2{
+    display: flex;
+    justify-content: space-between;
+    margin-left:400px;
+    margin-right: 100px;
+
+  }
+  .h1{
+    margin-left: 400px;
+    font-size: 40px;
+    margin-top: 1px;
+  }
+
+  .card-row {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* Add any other styles you need */
+  }
+
+  .profile{
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+  }
+
+  .pet-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .pet-item {
+    border: 1px solid #ccc;
+    padding: 15px;
+    text-align: center;
+    border-radius: 8px;
+  }
+
+  .pet-id {
+    font-weight: bold;
+  }
+
+  .pet-link {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .pet-image-link {
+    display: block;
+    text-decoration: none;
+  }
+
+  .pet-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    margin-bottom: 10px;
+  }
+
+  .pet-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 5px 0;
+  }
+
+  .pet-info {
+    margin-bottom: 5px;
+  }
+
+
+
+.card1:hover{
+    transform: scale(1.05);
+    transition: all .2s ease-in-out;
+
+}
+
+ 
+.card2:hover{
+    transform: scale(1.05);
+    transition: all .2s ease-in-out;
+
+
+} 
+.card3:hover{
+    transform: scale(1.05);
+    transition: all .2s ease-in-out;
+
+} 
+
+/* Inside src/App.css */
+.prof{
+  color : #4c6ef5 ;
+  margin-left: 400px;
+}
